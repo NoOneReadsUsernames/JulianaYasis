@@ -42,7 +42,7 @@ digital signal processing, and system realization.
 
 A collection of video check out for lab assignments.
 
-[View Playlist →]((https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLyvMSzZg9OIsLsjPS09Nyk8CAE3XB0E&client=opera&q=spongebob&sourceid=opera&ie=UTF-8&oe=UTF-8))
+[View Playlist →](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLyvMSzZg9OIsLsjPS09Nyk8CAE3XB0E&client=opera&q=spongebob&sourceid=opera&ie=UTF-8&oe=UTF-8)
 
 ---
 
