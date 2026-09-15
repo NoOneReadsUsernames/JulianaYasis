@@ -46,7 +46,7 @@ A collection of video check out for lab assignments.
 
 ---
 
-### ESP32 Sand Timer (in-progress)
+### ESP32 (in-progress) (just learning)
 
 An embedded systems project exploring timing, sensors, and
 hardware/software integration using an ESP32-WROOM.
