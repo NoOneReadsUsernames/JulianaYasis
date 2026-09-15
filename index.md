@@ -6,6 +6,11 @@ I'm an Electrical Engineering student interested in embedded systems,
 electronics, and hardware/software integration.
 
 ---
+## Links
+
+[Resume](Juliana_Yasis_Resume_FullTime_V6.pdf) [GitHub](https://github.com/NoOneReadsUsernames) [LinkedIn](https://www.linkedin.com/in/juliana-yasis/)
+
+---
 
 ## Projects
 
@@ -57,13 +62,3 @@ hardware/software integration using an ESP32-WROOM.
 
 I'm an Electrical Engineering student preparing to graduate in 2027,
 with interests in embedded systems, electronics, and microcontrollers.
-
----
-
-## Links
-
-[Resume](Juliana_Yasis_Resume_FullTime_V6.pdf)
-
-[GitHub](https://github.com/NoOneReadsUsernames)
-
-[LinkedIn](https://www.linkedin.com/in/juliana-yasis/)
