@@ -20,10 +20,8 @@ an LED matrix and produce programmed visual patterns.
 
 ### Analog Line Follower Robot (Final Project)
 
-Line follower robot using fully analog components implementing 
-flip-flop circuits, comparing circuit, and the boosty thing. 
-
-(bro edit this i forgot)
+Line follower robot using fully analog components, implementing 
+flip-flop circuits, a comparator circuit, and a boost-buck converter. 
 
 [View Project →](line-follower.md)
 
@@ -40,9 +38,9 @@ digital signal processing, and system realization.
 
 ### Circuits Lab demonstration videos
 
-A collection of video check out for lab assignments.
+A collection of video checkouts for lab assignments.
 
-[View Playlist →](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLyvMSzZg9OIsLsjPS09Nyk8CAE3XB0E&client=opera&q=spongebob&sourceid=opera&ie=UTF-8&oe=UTF-8)
+[View Playlist →](https://www.youtube.com/playlist?list=PLWqBaPTSg_O8)
 
 ---
 
@@ -64,8 +62,8 @@ with interests in embedded systems, electronics, and microcontrollers.
 
 ## Links
 
-[Resume](resume.pdf)
+[Resume](Juliana_Yasis_Resume_FullTime_V6.pdf)
 
-[GitHub](https://github.com/YOURUSERNAME)
+[GitHub](https://github.com/NoOneReadsUsernames)
 
-[LinkedIn](YOUR-LINKEDIN-URL)
+[LinkedIn](https://www.linkedin.com/in/juliana-yasis/)
