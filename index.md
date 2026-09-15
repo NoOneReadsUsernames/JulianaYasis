@@ -16,14 +16,12 @@ an LED matrix and produce programmed visual patterns.
 
 [View Project →](led-matrix.md)
 
----
+### Analog Line Follower Robot (Final Project)
 
-### ESP32 Sand Timer
+Line follower robot using fully analog components implementing 
+flip-flop circuits, comparing circuit, and the boosty thing. 
 
-An embedded systems project exploring timing, sensors, and
-hardware/software integration using an ESP32-WROOM.
-
-[View Project →](esp32-sand-timer.md)
+(bro edit this i forgot)
 
 ---
 
@@ -33,6 +31,21 @@ A collection of MATLAB projects exploring discrete-time signals,
 digital signal processing, and system realization.
 
 [View Project →](dsp.md)
+
+---
+
+### Circuits Lab demonstration videos
+
+A collection of video check out for lab assignments.
+
+---
+
+### ESP32 Sand Timer (in-progress)
+
+An embedded systems project exploring timing, sensors, and
+hardware/software integration using an ESP32-WROOM.
+
+[View Project →](esp32-sand-timer.md)
 
 ---
 
