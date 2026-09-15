@@ -1,0 +1,212 @@
+/* ==========================================================================
+   Juliana Yasis — Portfolio theme
+   Palette: warm ivory + ink + one rosewood accent
+   Type: Newsreader (serif, name/hero only) + Work Sans (everything else)
+
+   Written to work directly with plain Markdown output — no HTML wrapper
+   divs needed in index.md. Just drop this in as style.css.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Work+Sans:wght@400;500;600&display=swap');
+
+:root {
+  --ink: #23202B;
+  --paper: #FAF7F2;
+  --rosewood: #8B3A4A;
+  --blush: #E9DCD6;
+  --slate: #5B6570;
+  --line: #D9CFC7;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Work Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* ---------- layout wrapper ----------
+   orderedlist theme wraps content in .wrapper; keep it comfortably narrow
+   so line lengths stay under ~80 characters */
+.wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 56px 24px 96px;
+}
+
+/* ---------- top header (name + tagline + View on GitHub button) ---------- */
+.page-header {
+  background: none;
+  padding: 0 0 32px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 48px;
+}
+
+.page-header h1,
+.project-name {
+  font-family: 'Newsreader', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 1.1;
+  color: var(--ink);
+  margin: 0 0 12px;
+}
+
+.page-header p,
+.project-tagline {
+  font-family: 'Work Sans', sans-serif;
+  color: var(--slate);
+  font-size: 17px;
+  margin: 0 0 20px;
+}
+
+/* mute the default "View on GitHub" pill instead of removing it */
+.page-header .btn,
+.page-header a.btn {
+  background: transparent;
+  border: 1px solid var(--line);
+  color: var(--slate);
+  border-radius: 3px;
+  padding: 6px 14px;
+  font-size: 13px;
+}
+
+/* ---------- headings inside the body content ----------
+   h1 here = the name repeated inside main_content, e.g. "# Juliana Yasis"
+   h2 = section titles like "## Projects", "## About Me", "## Links"
+   h3 = individual project titles */
+#main_content h1 {
+  font-family: 'Newsreader', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 38px;
+  margin: 0 0 6px;
+}
+
+#main_content h2 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--slate);
+  margin: 0 0 24px;
+}
+
+/* Each project title acts as its own quiet "card header" — a top accent
+   rule plus generous spacing does the job without needing a wrapper div */
+#main_content h3 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 19px;
+  color: var(--ink);
+  border-top: 2px solid var(--rosewood);
+  padding-top: 18px;
+  margin: 0 0 8px;
+}
+
+h4 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  color: var(--slate);
+  font-size: 14px;
+  margin: 0 0 8px;
+}
+
+p {
+  color: var(--ink);
+  max-width: 62ch;
+  margin: 0 0 14px;
+}
+
+/* the "Electrical Engineering Student" line right under your name */
+#main_content h1 + p em,
+.lead {
+  color: var(--slate);
+}
+
+/* ---------- links ---------- */
+a {
+  color: var(--rosewood);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rosewood);
+  padding-bottom: 1px;
+}
+
+a:hover {
+  opacity: 0.75;
+}
+
+/* anchor-link icons GitHub Pages sometimes auto-inserts next to headers
+   (the little # links) — hide them so headers stay clean */
+h1 a[href^="#"],
+h2 a[href^="#"],
+h3 a[href^="#"] {
+  display: none;
+}
+
+/* nav links, if you add a top nav later, skip the underline */
+.site-nav a,
+nav a {
+  border-bottom: none;
+  font-weight: 500;
+}
+
+/* ---------- horizontal rules ----------
+   Your "---" dividers between projects render as <hr>. Style them as a
+   quiet circuit-trace instead of a plain line. */
+hr {
+  border: none;
+  height: 1px;
+  background: var(--line);
+  margin: 40px 0;
+  position: relative;
+}
+
+hr::before,
+hr::after {
+  content: '';
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--rosewood);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+hr::before { left: 28%; }
+hr::after { left: 71%; }
+
+/* ---------- footer ---------- */
+footer,
+.site-footer {
+  margin-top: 72px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+  color: var(--slate);
+  font-size: 13px;
+}
+
+footer a,
+.site-footer a {
+  color: var(--slate);
+  border-bottom: 1px solid var(--line);
+}
+
+/* ---------- responsive ---------- */
+@media (max-width: 640px) {
+  .wrapper { padding: 40px 20px 72px; }
+  .page-header h1, .project-name { font-size: 32px; }
+  #main_content h1 { font-size: 28px; }
+}
