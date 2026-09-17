@@ -17,7 +17,7 @@ autonomous and analog
 
 ## Implementation
 
-[actual technical explanation here]
+I am currently working on this since the documentation has been lost.
 
 ## Results
 
@@ -32,6 +32,3 @@ the experience we got from making the individual circuits in the lab.
 
 [video and images here]
 
-## Source Code
-
-[GitHub repository link]
