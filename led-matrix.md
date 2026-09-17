@@ -35,4 +35,4 @@ hardware/software interaction, and debugging embedded systems.
 
 ## Source Code
 
-[GitHub repository link]
+[GitHub repository link](LED-matrix-code.md)
