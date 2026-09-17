@@ -44,7 +44,7 @@ A collection of video checkouts for lab assignments.
 
 Wearable mascot head using a 3d printed base
 
-[View Project →](fursuit-head.dm)
+[View Project →](fursuit-head.md)
 
 ---
 
