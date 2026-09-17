@@ -159,7 +159,7 @@ hardware/software interaction, and debugging embedded systems.
 
 ## Demonstration
 
-![add working video here](images/It’s upside down gimme a bit to edit.mp4)
+![add working video here](images/ledvid.mp4)
 *The completed 12×8 green LED matrix display. Display errors came from mismatched pins.*
 
 ## Source Code
