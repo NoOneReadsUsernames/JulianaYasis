@@ -63,7 +63,7 @@ available printer.
 Used duct tape to create the fur and lining patterns before cutting
 fabric.
 
-[Pattern](/image/ductape.JPEG) -->
+![Pattern](/image/ductape.JPEG)
 
 **4. Eye blanks, Foam, and Base**
 
@@ -75,7 +75,7 @@ Made the eye blanks to fit the modified head shape. Lined the interior with upho
 
 Applied the faux fur outer shell using the patterns.
 
-![Faux fur shell](/images/done1.JPEG) -->
+![Faux fur shell](/image/done1.JPEG) -->
 
 **8. Ventilation holes**
 
@@ -83,7 +83,7 @@ Cut vent holes with a rotary tool after gluing on the foam ears.
 
 **9. Finished head**
 
-<!-- ![Finished fursuit head](/assets/images/fursuit-head/09-finished.jpg) -->
+![Finished fursuit head](/image/IMG_7161.JPEG) -->
 
 ---
 
