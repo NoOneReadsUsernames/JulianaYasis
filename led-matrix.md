@@ -170,7 +170,7 @@ difference between a dim, flickery display and a clean, bright one.
 
 ## Demonstration
 
-![demo vid](https://noonereadsusernames.github.io/JulianaYasis/image/ledvid.mp4) 
+<iframe width="100%" height="500" src="https://youtu.be/Y22BzSjemNg" title="LED Matrix Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *The completed 12×8 green LED matrix display. Display errors came from mismatched pins.*
 [YouTube Link](https://youtu.be/Y22BzSjemNg)
 
