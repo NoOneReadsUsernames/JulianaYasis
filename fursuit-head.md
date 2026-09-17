@@ -58,42 +58,28 @@ available printer.
 
 ![3D printed pieces](/image/3dprint.JPEG)
 
-**3. Eye blanks**
-
-Made the eye blanks to fit the modified head shape.
-
-<!-- ![Eye blanks](/assets/images/fursuit-head/03-eyes.jpg) -->
-
-**4. Foam padding and base**
-
-Lined the interior with upholstery foam for padding and comfort.
-
-<!-- ![Foam padding](/assets/images/fursuit-head/04-foam.jpg) -->
-
-**5. Pattern-making with duct tape**
+**3. Pattern-making with duct tape**
 
 Used duct tape to create the fur and lining patterns before cutting
 fabric.
 
-<!-- ![Duct tape patterning](/assets/images/fursuit-head/05-pattern-tape.jpg) -->
+[Pattern](/image/ductape.JPEG) -->
 
-**6. EVA foam articulated features**
+**4. Eye blanks, Foam, and Base**
 
-Built the ears and other floppy accessories out of EVA foam.
+Made the eye blanks to fit the modified head shape. Lined the interior with upholstery foam for padding and comfort. Built the ears and other floppy accessories out of EVA foam.
 
-<!-- ![EVA foam ears](/assets/images/fursuit-head/06-eva-foam.jpg) -->
+![Eye blanks, lining, and base](/image/liningeyes.JPEG)
 
 **7. Faux fur shell**
 
-Applied the faux fur outer shell using the patterns made in step 5.
+Applied the faux fur outer shell using the patterns.
 
-<!-- ![Faux fur shell](/assets/images/fursuit-head/07-fur.jpg) -->
+![Faux fur shell](/images/done1.JPEG) -->
 
 **8. Ventilation holes**
 
 Cut vent holes with a rotary tool after gluing on the foam ears.
-
-<!-- ![Ventilation holes](/assets/images/fursuit-head/08-vents.jpg) -->
 
 **9. Finished head**
 
