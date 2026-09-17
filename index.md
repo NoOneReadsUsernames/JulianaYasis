@@ -8,7 +8,7 @@ electronics, and hardware/software integration.
 ---
 ## Links
 
-[Resume](Juliana_Yasis_Resume_FullTime_V6.pdf) [GitHub](https://github.com/NoOneReadsUsernames) [LinkedIn](https://www.linkedin.com/in/juliana-yasis/)
+[Resume](Juliana_Yasis_Resume_FullTime_V6.pdf) [GitHub](https://github.com/NoOneReadsUsernames) [LinkedIn](https://www.linkedin.com/in/juliana-yasis/) [Handshake](ou.joinhandshake.com/profiles/zvfdf6)
 
 ---
 
@@ -32,15 +32,6 @@ flip-flop circuits, a comparator circuit, and a boost-buck converter.
 
 ---
 
-### Digital Signal Processing
-
-A collection of MATLAB projects exploring discrete-time signals,
-digital signal processing, and system realization.
-
-[View Project →](dsp.md)
-
----
-
 ### Circuits Lab demonstration videos
 
 A collection of video checkouts for lab assignments.
@@ -49,16 +40,16 @@ A collection of video checkouts for lab assignments.
 
 ---
 
-### ESP32 (in-progress) (just learning)
+### Mascot head
 
-An embedded systems project exploring timing, sensors, and
-hardware/software integration using an ESP32-WROOM.
+Wearable mascot head using a 3d printed base
 
-[View Project →](esp32-sand-timer.md)
+[View Project →](fursuit-head.dm)
 
 ---
 
 ## About Me
 
-I'm an Electrical Engineering student preparing to graduate in 2027,
-with interests in embedded systems, electronics, and microcontrollers.
+I'm a senior-year Electrical Engineering student at the University of Oklahoma, graduating in Spring 2027, with a focus on embedded systems and analog circuit design. Most of my coursework and personal projects live somewhere between the schematic and the breadboard — I like understanding a system down to the transistor level, whether that's tuning RC time constants for a fully analog PID controller or writing bare-metal firmware without a HAL to lean on.
+
+Outside of coursework, I build things with my hands in a different medium: I design and fabricate wearable animatronic props, which has taught me a lot about mechanical design, materials, and iterating on a physical build—skills that transfer more directly to engineering than people expect. I'm also involved in student leadership, serving as Treasurer for the Filipino Student Association and Secretary & Treasurer for Lambda Delta Psi, where I manage budgets and keep things organized behind the scenes.
