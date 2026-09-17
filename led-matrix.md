@@ -149,17 +149,28 @@ led-matrix-lpc1768/
 
 ## Results
 
-The completed system successfully displayed the programmed
-patterns on the LED matrix.
+The completed matrix reliably displayed static symbols, scrolling
+text, and all three transition animations at the full ~125 Hz
+refresh rate with no visible ghosting after the row-blanking fix.
+Initial builds showed cross-talk between adjacent LEDs, traced to
+mismatched row/column pin assignments in the driver wiring —
+resolved by re-verifying the pinout against the transistor truth
+table before re-flashing.
 
 ## What I Learned
 
-This project gave me experience with microcontroller I/O,
-hardware/software interaction, and debugging embedded systems.
+The most useful lesson was how much of "software" debugging in an
+embedded system is actually hardware debugging — the ghosting and
+cross-talk issues weren't firmware bugs; they were timing and
+wiring problems that only showed up once current was flowing
+through real transistors. Recalculating the column resistor value
+to account for the 1/8 duty cycle from multiplexing (rather than
+using the static single-LED value) was the detail that made the
+difference between a dim, flickery display and a clean, bright one.
 
 ## Demonstration
 
-![demo vid](/image/ledvid.mp4)
+![demo vid](https://noonereadsusernames.github.io/JulianaYasis/image/ledvid.mp4) 
 *The completed 12×8 green LED matrix display. Display errors came from mismatched pins.*
 
 ## Source Code
