@@ -83,6 +83,8 @@ Cut vent holes with a rotary tool after gluing on the foam ears.
 
 **9. Finished head**
 
+Added finishing touches such as EVA foam eyelashes, heart nose, and neodymium magnets to express emotions through eyebrows.
+
 ![Finished fursuit head](/image/IMG_7161.JPEG) -->
 
 ---
