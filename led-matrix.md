@@ -159,7 +159,7 @@ hardware/software interaction, and debugging embedded systems.
 
 ## Demonstration
 
-[add working video here]
+[add working video here](images/It’s upside down gimme a bit to edit.mp4)
 
 ## Source Code
 
