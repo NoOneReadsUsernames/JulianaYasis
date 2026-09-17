@@ -8,7 +8,7 @@ electronics, and hardware/software integration.
 ---
 ## Links
 
-[Resume](Juliana_Yasis_Resume_FullTime_V6.pdf) [GitHub](https://github.com/NoOneReadsUsernames) [LinkedIn](https://www.linkedin.com/in/juliana-yasis/) [Handshake](ou.joinhandshake.com/profiles/zvfdf6)
+[Resume](Juliana_Yasis_Resume_FullTime_V6.pdf) [GitHub](https://github.com/NoOneReadsUsernames) [LinkedIn](https://www.linkedin.com/in/juliana-yasis/) [Handshake](https://ou.joinhandshake.com/profiles/zvfdf6)
 
 ---
 
