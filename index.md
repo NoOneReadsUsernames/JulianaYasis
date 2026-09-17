@@ -23,6 +23,15 @@ an LED matrix and produce programmed visual patterns.
 
 ---
 
+### Analog Line Follower Robot (Final Project)
+
+Line follower robot using fully analog components, implementing 
+flip-flop circuits, a comparator circuit, and a boost-buck converter. 
+
+[View Project →](line-follower.md)
+
+---
+
 ### Circuits Lab demonstration videos
 
 A collection of demonstration videos from circuit analysis and electronics laboratory assignments.
@@ -38,16 +47,6 @@ Wearable mascot head using a 3d printed base
 [View Project →](fursuit-head.md)
 
 ---
-
-### Analog Line Follower Robot (Final Project)
-
-Line follower robot using fully analog components, implementing 
-flip-flop circuits, a comparator circuit, and a boost-buck converter. 
-
-[View Project →](line-follower.md)
-
----
-
 
 ## About Me
 
