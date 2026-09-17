@@ -71,21 +71,21 @@ Made the eye blanks to fit the modified head shape. Lined the interior with upho
 
 ![Eye blanks, lining, and base](/image/liningeyes.JPEG)
 
-**7. Faux fur shell**
+**5. Faux fur shell**
 
 Applied the faux fur outer shell using the patterns.
 
-![Faux fur shell](/image/done1.JPEG) -->
+![Faux fur shell](/image/done1.JPEG)
 
-**8. Ventilation holes**
+**6. Ventilation holes**
 
 Cut vent holes with a rotary tool after gluing on the foam ears.
 
-**9. Finished head**
+**7. Finished head**
 
 Added finishing touches such as EVA foam eyelashes, heart nose, and neodymium magnets to express emotions through eyebrows.
 
-![Finished fursuit head](/image/IMG_7161.JPEG) -->
+![Finished fursuit head](/image/IMG_7161.JPEG)
 
 ---
 
