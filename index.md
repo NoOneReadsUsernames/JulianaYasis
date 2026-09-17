@@ -44,7 +44,7 @@ Wearable mascot head using a 3d printed base
 Line follower robot using fully analog components, implementing 
 flip-flop circuits, a comparator circuit, and a boost-buck converter. 
 
-[Unfinished documentation](line-follower.md)
+[View Project →](line-follower.md)
 
 ---
 
