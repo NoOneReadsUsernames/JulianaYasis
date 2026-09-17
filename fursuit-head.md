@@ -56,7 +56,7 @@ the school's Prusa printer.
 Printed the head pieces in PLA, split into sections sized for the
 available printer.
 
-![3D printed pieces](/assets/image/3dprint.jpeg)
+![3D printed pieces](/image/3dprint.JPEG)
 
 **3. Eye blanks**
 
